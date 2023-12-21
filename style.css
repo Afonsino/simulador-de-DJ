@@ -1,0 +1,24 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+h3{
+    background-color: rgb(0, 255, 174);
+    margin-top: 0px;
+}
+.div_velocidade{
+
+    float: left;
+}.div_velocidade_img{
+
+    width: 100px;
+}
+    
+
+.div_volume{
+
+    float: right;
+}.div_volume_img{
+
+    width: 100px;
+}
